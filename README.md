@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<h2 align="center"> Leetcode Stats </h2>
+<!-- <h2 align="center"> Leetcode Stats </h2>
 <br>
 <div align="center">
     <a href="https://leetcard.jacoblin.cool/ankitgulshan24?theme=dark&font=Radio%20Canada&ext=heatmap">
     <img src="https://leetcard.jacoblin.cool/ankitgulshan24?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
   </a>
-</div>
+</div> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
