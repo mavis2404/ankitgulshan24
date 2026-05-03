@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Kumar+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+;" />
 </h1>
 
 <h3 align="center">A passionate Full Stack Web Developer (MERN Stack)</h3>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"> 
-  <a href="mailto:ankitkrnwd8@gmail.com">
+  <a href="mailto:shivamraj120803@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ankitgulshan24/" target="_blank">
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,html,css,git" />
     <img src="https://skillicons.dev/icons?i=cpp,python,vscode" /><br>
-</div>
+</div> -->
 
 <br/>
 <hr/>
